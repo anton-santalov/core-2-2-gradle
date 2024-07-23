@@ -1,2 +1,4 @@
 rootProject.name = 'core-2-2-gradle'
-
+include 'api'
+include 'db'
+include 'service'
